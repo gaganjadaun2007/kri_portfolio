@@ -125,7 +125,7 @@ export const educationList = [
   {
     degree: "Bachelor of Technology — Computer Science Engineering",
     specialization: "Specialization in Artificial Intelligence & Machine Learning",
-    institution: "[University / Institute Name]",
+    institution: "Lovely Professional University",
     period: "2025 – Present",
     status: "Currently Enrolled (Undergraduate)",
     highlights: [
