@@ -176,3 +176,18 @@ export const practicalWorkList = [
     description: "Participating in team hackathons and project showcases to design rapid solutions under time constraints and collaborate on engineering workflows."
   }
 ];
+
+export const certifications = [
+  {
+    title: "Machine Learning Specialization",
+    issuer: "DeepLearning.AI",
+    date: "2024",
+    description: "Fundamental concepts of machine learning, including supervised and unsupervised learning, and building predictive models."
+  },
+  {
+    title: "Python for Data Science and AI",
+    issuer: "Coursera",
+    date: "2023",
+    description: "Comprehensive course covering Python programming, data analysis libraries (Pandas, NumPy), and AI foundations."
+  }
+];
