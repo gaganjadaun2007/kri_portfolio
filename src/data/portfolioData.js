@@ -1,5 +1,6 @@
 export const personalInfo = {
   name: "Krishika Mohindru",
+  profileImage: "/profileimage.jpeg",
   role: "Aspiring AI/ML Engineer | Python & C++ Developer",
   subRole: "B.Tech CSE — AI & ML",
   status: "Open to Internships",
